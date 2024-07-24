@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rofthchild
 - 👀 I’ve recently sparked an intrest in coding
-- 🌱 I’m currently learning Full Stack Web Development: HTML, CSS, JavaScript through The Odin Project (https://www.theodinproject.com). Currently working through the "Foundations Course".
-- 💞️ I’m looking to collaborate on somehting really important
+- 🌱 I’m currently learning Full Stack Web Development: HTML, CSS, JavaScript through The Odin Project (https://www.theodinproject.com). Currently working through the "Foundations Course"
+- 🛡️ Project what is most important
 - 📫 Feel free to reach out via github for now
 
 <!---
