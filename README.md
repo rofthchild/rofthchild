@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rofthchild
-- 👀 I’ve recently sparked an intrest in coding
-- 🌱 I’m currently learning Full Stack Web Development: HTML, CSS, JavaScript through The Odin Project (https://www.theodinproject.com). Currently working through the "Foundations Course"
-- 🛡️ Project what is most important
-- 📫 Feel free to reach out via github for now
+- 👀 Intrest in coding
+- 🌱 Learning Full Stack Web Development: HTML, CSS, JavaScript through The Odin Project (https://www.theodinproject.com)
+- 🛡️ [SECURITY] Project what is most important
+- 📫 Let's chat! Feel free to reach out via github
 
 <!---
 rofthchild/rofthchild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
