@@ -1,4 +1,4 @@
-Want to start commiting to GitHub more often.
+Want to start commiting to GitHub more often.<br>
 Want to learn to code stuffs and be many fars from where i currently am. 
 
 <h1>current inspiration</h1>
