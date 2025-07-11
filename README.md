@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rofthchild
 - 👀 Intrest in coding
-- 🌱 Learning Full Stack Web Development: HTML, CSS, JavaScript through The Odin Project (https://www.theodinproject.com)
+- 🌱 Learning Full Stack Web Development
 - 🛡️ [SECURITY] Project what is most important
 - 📫 Let's chat! Feel free to reach out via github
 
