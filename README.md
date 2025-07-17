@@ -5,6 +5,7 @@
 <h1>current inspiration</h1>
 <ul>
   <li><a href="https://github.com/ThePrimeagen">ThePrimeagen</a></li>
+  <li><a href="https://www.youtube.com/@BreadOnPenguins">BreadOnPenguins</a></li>
 </ul>
 <!--- 
 - 👋 Hi, I’m @rofthchild
