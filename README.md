@@ -1,5 +1,6 @@
-Want to start commiting to GitHub more often.<br>
-Want to learn to code stuffs and be many fars from where i currently am. 
+<h1>INTENTIONS<h1><br>
+<h2>Want to start commiting to GitHub more often<h2><br>
+<h2>Want to learn to code stuffs and be many fars from where i currently am</h2> 
 
 <h1>current inspiration</h1>
 <ul>
