@@ -1,6 +1,6 @@
 <h1>INTENTIONS<h1><br>
-<h2>Want to start commiting to GitHub more often<h2><br>
-<h2>Want to learn to code stuffs and be many fars from where i currently am</h2> 
+<h2>Starting to commit to GitHub more often<h2><br>
+<h2>Learning to code stuffs and be many fars from where i currently am</h2> 
 <br>
 <h1>current inspiration</h1>
 <ul>
